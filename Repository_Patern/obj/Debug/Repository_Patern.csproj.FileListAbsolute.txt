@@ -1,0 +1,7 @@
+C:\Users\YEŞİL\Desktop\Ritimus BackEnd Çalışmalar\Repository_Patern\Repository_Patern\Repository_Patern\bin\Debug\Repository_Patern.exe.config
+C:\Users\YEŞİL\Desktop\Ritimus BackEnd Çalışmalar\Repository_Patern\Repository_Patern\Repository_Patern\bin\Debug\Repository_Patern.exe
+C:\Users\YEŞİL\Desktop\Ritimus BackEnd Çalışmalar\Repository_Patern\Repository_Patern\Repository_Patern\bin\Debug\Repository_Patern.pdb
+C:\Users\YEŞİL\Desktop\Ritimus BackEnd Çalışmalar\Repository_Patern\Repository_Patern\Repository_Patern\obj\Debug\Repository_Patern.csproj.AssemblyReference.cache
+C:\Users\YEŞİL\Desktop\Ritimus BackEnd Çalışmalar\Repository_Patern\Repository_Patern\Repository_Patern\obj\Debug\Repository_Patern.csproj.CoreCompileInputs.cache
+C:\Users\YEŞİL\Desktop\Ritimus BackEnd Çalışmalar\Repository_Patern\Repository_Patern\Repository_Patern\obj\Debug\Repository_Patern.exe
+C:\Users\YEŞİL\Desktop\Ritimus BackEnd Çalışmalar\Repository_Patern\Repository_Patern\Repository_Patern\obj\Debug\Repository_Patern.pdb
